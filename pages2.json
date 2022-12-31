@@ -1,0 +1,2992 @@
+{
+  "pages": [
+    {
+      "page": "work_list",
+      "setup": {
+        "lt": {
+          "meta_title": "Darbu sarasas",
+          "meta_description": "",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": ""
+        },
+        "en": {
+          "meta_title": "Work list",
+          "meta_description": "",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": ""
+        }
+      },
+      "buttons": {
+        "lt": [
+          {
+            "id": "b1",
+            "title": "Kampanija",
+            "category": "campaign"
+          },
+          {
+            "id": "b2",
+            "title": "TV",
+            "category": "tv"
+          },
+          {
+            "id": "b3",
+            "title": "Spauda",
+            "category": "print"
+          },
+          {
+            "id": "b4",
+            "title": "Skaitmena",
+            "category": "digital"
+          },
+          {
+            "id": "b5",
+            "title": "Dizainas",
+            "category": "design"
+          }
+        ],
+        "en": [
+          {
+            "id": "b1",
+            "title": "Campaign",
+            "category": "campaign"
+          },
+          {
+            "id": "b2",
+            "title": "TV",
+            "category": "tv"
+          },
+          {
+            "id": "b3",
+            "title": "Print",
+            "category": "print"
+          },
+          {
+            "id": "b4",
+            "title": "Digital",
+            "category": "digital"
+          },
+          {
+            "id": "b5",
+            "title": "Design",
+            "category": "design"
+          }
+        ]
+      }
+    },
+    {}
+  ],
+  "items": [
+    {
+      "item": "Toska",
+      "content": {
+        "lt": {
+          "id": "Toska",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Bohemiečiai '16",
+          "campaign_brand": "Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_01": {
+              "img": null,
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": "6yZ18qgPDqg",
+              "video_screen_grab": "/images/youtube_screengrab.png" 
+            },
+            "media_02": {
+              "img": null,
+              "img_halfwidth": null,
+              "video_vimeo": "https://vimeo.com/671854758",
+              "video_youtube": null,
+              "video_screen_grab": "/images/vimeo_screengrab.jpg" 
+            },
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_5": {
+              "img": null,
+              "img_halfwidth": "/images/toska_1_vertical.jpg",
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "ToskaEN",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Bohemiečiai '16",
+          "campaign_brand": "EN Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_01": {
+              "img": null,
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": "6yZ18qgPDqg",
+              "video_screen_grab": null 
+            },
+            "media_02": {
+              "img": null,
+              "img_halfwidth": null,
+              "video_vimeo": "https://vimeo.com/671854758",
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_5": {
+              "img": null,
+              "img_halfwidth": "/images/toska_1_vertical.jpg",
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mangali",
+      "content": {
+        "lt": {
+          "id": "Mangali",
+          "meta_title": "Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MangaliEN",
+          "meta_title": "EN Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mindletic",
+      "content": {
+        "lt": {
+          "id": "Mindletic",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MindleticEN",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Eurovaistine",
+      "content": {
+        "lt": {
+          "id": "Eurovaistine",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "EurovaistineEN",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Toska2",
+      "content": {
+        "lt": {
+          "id": "Toska2",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Bohemiečiai '16",
+          "campaign_brand": "Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "ToskaEN2",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Bohemiečiai '16",
+          "campaign_brand": "EN Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mangali2",
+      "content": {
+        "lt": {
+          "id": "Mangali2",
+          "meta_title": "Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MangaliEN2",
+          "meta_title": "EN Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mindletic2",
+      "content": {
+        "lt": {
+          "id": "Mindletic2",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MindleticEN2",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Eurovaistine2",
+      "content": {
+        "lt": {
+          "id": "Eurovaistine2",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "EurovaistineEN2",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Toska3",
+      "content": {
+        "lt": {
+          "id": "Toska3",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Bohemiečiai '16",
+          "campaign_brand": "Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "ToskaEN3",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Bohemiečiai '16",
+          "campaign_brand": "EN Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mangali3",
+      "content": {
+        "lt": {
+          "id": "Mangali3",
+          "meta_title": "Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MangaliEN3",
+          "meta_title": "EN Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mindletic3",
+      "content": {
+        "lt": {
+          "id": "Mindletic3",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MindleticEN3",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Eurovaistine3",
+      "content": {
+        "lt": {
+          "id": "Eurovaistine3",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "EurovaistineEN3",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Toska4",
+      "content": {
+        "lt": {
+          "id": "Toska4",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Bohemiečiai '16",
+          "campaign_brand": "Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "ToskaEN4",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Bohemiečiai '16",
+          "campaign_brand": "EN Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mangali4",
+      "content": {
+        "lt": {
+          "id": "Mangali4",
+          "meta_title": "Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MangaliEN4",
+          "meta_title": "EN Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mindletic4",
+      "content": {
+        "lt": {
+          "id": "Mindletic4",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MindleticEN4",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Eurovaistine4",
+      "content": {
+        "lt": {
+          "id": "Eurovaistine4",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "EurovaistineEN4",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Toska5",
+      "content": {
+        "lt": {
+          "id": "Toska5",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Bohemiečiai '16",
+          "campaign_brand": "Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "ToskaEN5",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Bohemiečiai '16",
+          "campaign_brand": "EN Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mangali5",
+      "content": {
+        "lt": {
+          "id": "Mangali5",
+          "meta_title": "Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MangaliEN5",
+          "meta_title": "EN Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mindletic5",
+      "content": {
+        "lt": {
+          "id": "Mindletic5",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MindleticEN5",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Eurovaistine5",
+      "content": {
+        "lt": {
+          "id": "Eurovaistine5",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "EurovaistineEN5",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Toska6",
+      "content": {
+        "lt": {
+          "id": "Toska6",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Bohemiečiai '16",
+          "campaign_brand": "Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "ToskaEN6",
+          "meta_title": "Toska",
+          "meta_description": "Toska",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Bohemiečiai '16",
+          "campaign_brand": "EN Operos Toska programėlė",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/toska_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/toska_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/toska_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "print"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/toska_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/toska_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/toska_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/toska_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mangali6",
+      "content": {
+        "lt": {
+          "id": "Mangali6",
+          "meta_title": "Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MangaliEN6",
+          "meta_title": "EN Mangali",
+          "meta_description": "Mangali",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mangali interneto puslapis",
+          "campaign_brand": "Mangali",
+          "year": "2016",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mangali_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mangali_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mangali_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "digital"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mangali_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mangali_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mangali_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mangali_4.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Mindletic6",
+      "content": {
+        "lt": {
+          "id": "Mindletic6",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "MindleticEN6",
+          "meta_title": "Mindletic",
+          "meta_description": "Mindletic",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Mindletic design",
+          "campaign_brand": "Mindletic",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/mindletic_1.jpg"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/mindletic_1_wide.jpg"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/mindletic_1_vertical.jpg"
+            }
+          ],
+          "categories": [
+            "design"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/mindletic_1.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/mindletic_2.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/mindletic_3.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_4": {
+              "img": "/images/mindletic_4.jpg",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    },
+    {
+      "item": "Eurovaistine6",
+      "content": {
+        "lt": {
+          "id": "Eurovaistine6",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        },
+        "en": {
+          "id": "EurovaistineEN6",
+          "meta_title": "Eurovaistine",
+          "meta_description": "Eurovaistine",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "campaign_header": "EN Eurovaistinės kompensuojamųjų vaistų komunikacija",
+          "campaign_brand": "Eurovaistinė",
+          "year": "2021",
+          "covers": [
+            {
+              "cover_type": "cover_normal",
+              "cover_source": "/images/eurovaistine_1.png"
+            },
+            {
+              "cover_type": "cover_wide",
+              "cover_source": "/images/eurovaistine_1_wide.png"
+            },
+            {
+              "cover_type": "cover_vertical",
+              "cover_source": "/images/eurovaistine_1_vertical.png"
+            }
+          ],
+          "categories": [
+            "campaign"
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.",
+          "media": {
+            "media_1": {
+              "img": "/images/eurovaistine_1.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_2": {
+              "img": "/images/eurovaistine_2.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            },
+            "media_3": {
+              "img": "/images/eurovaistine_3.png",
+              "img_halfwidth": null,
+              "video_vimeo": null,
+              "video_youtube": null,
+              "video_screen_grab": null 
+            }
+          }
+        }
+      }
+    }
+  ]
+}
