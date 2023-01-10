@@ -87,7 +87,7 @@
             {
               "client": "TELE2",
               "logo": "/logos/T2.png"
-            },            
+            },
             {
               "client": "Eurovaistinė2",
               "logo": "/logos/EV.png"
@@ -124,7 +124,6 @@
               "client": "TELE22",
               "logo": "/logos/T2.png"
             }
-
           ]
         },
         "en": {
@@ -224,14 +223,14 @@
           "meta_description": "",
           "meta_image": "",
           "meta_url": "",
-          "json_ld_script": "",
+          "json_ld_script": ""
         },
         "en": {
           "meta_title": "Work list",
           "meta_description": "",
           "meta_image": "",
           "meta_url": "",
-          "json_ld_script": "",
+          "json_ld_script": ""
         }
       },
       "buttons": {
