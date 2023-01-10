@@ -49,6 +49,7 @@
           ],
           "press_title": "Spauda apie mus",
           "press_link": "Pamatyti viską",
+          "press_link_path": "/spauda",
           "clients_title": "Klientai",
           "clients": [
             {
@@ -172,6 +173,7 @@
           ],
           "press_title": "Spauda apie mus",
           "press_link": "Pamatyti viską",
+          "press_link_path": "/press",
           "clients_title": "Klientai",
           "clients": [
             {
@@ -222,14 +224,14 @@
           "meta_description": "",
           "meta_image": "",
           "meta_url": "",
-          "json_ld_script": ""
+          "json_ld_script": "",
         },
         "en": {
           "meta_title": "Work list",
           "meta_description": "",
           "meta_image": "",
           "meta_url": "",
-          "json_ld_script": ""
+          "json_ld_script": "",
         }
       },
       "buttons": {
