@@ -349,10 +349,14 @@
               "link_url": "https://vimeo.com/ogilvyvilnius"
             }
           ],
-          "location": {
-            "lat": "54.67904810972932",
-            "lng": "25.2997662155355"
-          }
+          "location": { 
+            "centerLat": "54.67904810972932",
+            "centerLng": "25.2997662155355",
+            "markerLat": "54.67847220748236",
+            "markerLng": "25.303648140857376"
+          },
+          "location_link_url": "https://goo.gl/maps/XE7ZvqU4wcKmfGXB9",
+          "location_link_text": "Gauti nuorodas"
         },
         "en": {
           "meta_title": "Contacts",
@@ -381,10 +385,14 @@
               "link_url": "https://vimeo.com/ogilvyvilnius"
             }
           ],
-          "location": {
-            "lat": "54.67904810972932",
-            "lng": "25.2997662155355"
-          }
+          "location": { 
+            "centerLat": "54.67904810972932",
+            "centerLng": "25.2997662155355",
+            "markerLat": "54.67847220748236",
+            "markerLng": "25.303648140857376"
+          },
+          "location_link_url": "https://goo.gl/maps/XE7ZvqU4wcKmfGXB9",
+          "location_link_text": "Get directions"
         }
       }
     },
@@ -1017,7 +1025,7 @@
           "section": "creativity",
           "content": {
             "lt": {
-              "title": "Kurybiskumas",
+              "title": "Kūryba",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
               "home_page_text": "Specializuojamės tyrimų ir strategijų rengimo darbuose, orientuotuose į naudos prekių ženklui kūrimą. Tyrimus konstruojame siekdami sužinoti vartotojų santykį su prekių ženklu, o strategijas – kad prekių ženklas išsiskirtų iš konkurentų. Į savo darbą įtraukiame ir kūrybines komandas, kad turimos žinios ir verslo spendimai virstų efektyvia komunikacija.\n\nPadėsime atsakyti į tokius klausimus, susijusius su prekių ženklo vystymu, kaip:\n- Ar turėtume koreguoti savo strategiją, jos įgyvendinimą?\n- Ar prekių ženklas rezonuoja žmonėms?\n- Kaip mūsų prekių ženklas gali rezonuoti įvairioms auditorijoms?\n- Už ką pasisako mūsų prekių ženklas?\n- Kaip prekių ženklui tapti pirmaujančiam ir augančiam?"
             },
