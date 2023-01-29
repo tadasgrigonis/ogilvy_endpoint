@@ -9,10 +9,170 @@
           "meta_image": "",
           "meta_url": "",
           "json_ld_script": "",
+          "grid_items": [
+            {
+              "id": "id1",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id2",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id3",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id4",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id5",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id6",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id7",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id8",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id9",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id10",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id11",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id12",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id13",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id14",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id15",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id16",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id17",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id18",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id19",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id20",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id21",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id22",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id23",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id24",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id25",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id26",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id27",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id28",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            }
+          ],
           "hero_quote": "Our business is infested with idiots who try to impress by using pretentious jargon.",
           "hero_author": "David Ogilvy",
           "hero_image": "/images/hero_ogilvy.png",
           "work_title": "Mūsų darbai",
+          "gallery": [
+            {
+              "img": "img1",
+              "src": ""
+            },
+            {
+              "img": "img2",
+              "src": ""
+            },
+            {
+              "img": "img3",
+              "src": ""
+            },
+            {
+              "img": "img4",
+              "src": ""
+            }
+          ],
           "services_title": "Paslaugos",
           "awards_title": "Mūsų apdovanojimai",
           "awards": [
@@ -132,10 +292,171 @@
           "meta_image": "",
           "meta_url": "",
           "json_ld_script": "",
+          "grid_items": [
+            {
+              "id": "id1",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id2",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id3",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id4",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id5",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id6",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id7",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id8",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id9",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id10",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id11",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id12",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id13",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id14",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id15",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id16",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id17",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id18",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id19",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id20",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id21",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id22",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id23",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            },
+            {
+              "id": "id24",
+              "url": "Toska",
+              "image": "/images/cover4.jpg"
+            },
+            {
+              "id": "id25",
+              "url": "Toska",
+              "image": "/images/cover5.jpg"
+            },
+            {
+              "id": "id26",
+              "url": "Toska",
+              "image": "/images/cover1.jpg"
+            },
+            {
+              "id": "id27",
+              "url": "Toska",
+              "image": "/images/cover2.jpg"
+            },
+            {
+              "id": "id28",
+              "url": "Toska",
+              "image": "/images/cover3.jpg"
+            }
+          ],
+
           "hero_quote": "Our business is infested with idiots who try to impress by using pretentious jargon.",
           "hero_author": "David Ogilvy",
           "hero_image": "/images/hero_ogilvy.png",
           "work_title": "Our work",
+          "gallery": [
+            {
+              "img": "img1",
+              "src": ""
+            },
+            {
+              "img": "img2",
+              "src": ""
+            },
+            {
+              "img": "img3",
+              "src": ""
+            },
+            {
+              "img": "img4",
+              "src": ""
+            }
+          ],
           "services_title": "Services",
           "awards_title": "Mūsų apdovanojimai",
           "awards": [
@@ -349,7 +670,7 @@
               "link_url": "https://vimeo.com/ogilvyvilnius"
             }
           ],
-          "location": { 
+          "location": {
             "centerLat": "54.67904810972932",
             "centerLng": "25.2997662155355",
             "markerLat": "54.67847220748236",
@@ -385,7 +706,7 @@
               "link_url": "https://vimeo.com/ogilvyvilnius"
             }
           ],
-          "location": { 
+          "location": {
             "centerLat": "54.67904810972932",
             "centerLng": "25.2997662155355",
             "markerLat": "54.67847220748236",
@@ -396,6 +717,32 @@
         }
       }
     },
+    {
+      "page": "privacy",
+      "content": {
+        "lt": {
+          "meta_title": "Privatumo politika",
+          "meta_description": "",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "title": "Privatumo politika",
+          "text": "\n\t\t<h3>\n\t\t\tKas yra slapukai?\n\t\t</h3>\n\t\t<p>\n\t\t\tSlapukai yra maži tekstiniai failai, saugomi Jūsų įrenginio (pvz., kompiuterio, mobiliojo telefono, planšetės) naršyklėje, kai Jūs naršote interneto svetainėse. Kitos technologijos, įskaitant duomenis, kuriuos išsaugome Jūsų interneto naršyklėje ar įrenginyje, su Jūsų įrenginiu susijusius identifikatorius bei kitą programinę įrangą, naudojamos panašiais tikslais. Slapukai plačiai naudojami, kad svetainės veiktų arba veiktų geriau ir veiksmingiau. Šioje politikoje visos minėtos technologijos vadinamos „slapukais“.\n\t\t</p>\n\t\t<h3>\n\t\t\tKodėl jūs naudojate slapukus?\n\t\t</h3>\n\t\t<p>\n\t\t\tMes naudojame slapukus:\n\t\t</p>\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tužtikrinti, kad svetainė veikia taip, kaip ji turi veikti;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tužtikrinti, kad neturėsite iš naujo prisijungti kaskart apsilankę svetainėje;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tišsaugoti jūsų nustatymus per apsilankymą ir tarp jų;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tpagerinti svetainės greitį/saugumą;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tsuteikti jums galimybę pasidalinti puslapiais socialiniuose tinkluose, pvz., „Facebook“, „Instagram“ ar „LinkedIn“;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tužtikrinti, kad prisijungę galėsite pritaikyti svetainę savo poreikiams, kad greičiau rastumėte tai, ko ieškote;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tnuolat tobulinti svetainę, kad jį būtų jums dar patrauklesnė;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tkurti veiksmingesnę rinkodarą.\n\t\t\t</li>\n\t\t</ul>\n\t\t<h3>\n\t\t\tKokių tipų slapukus naudojate?\n\t\t</h3>\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\t<p>\n\t\t\t\t\tGriežtai privalomi slapukai\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\tŠie slapukai svetainėje yra būtini, kad vartotojas galėtų naršyti ir naudotis svetainės funkcijomis, pvz., įsiminti formose įvestą informaciją, kai vartotojas pereina nuo vieno puslapio prie kito naršymo seanso metu. Be griežtai privalomų slapukų taptų neįmanoma teikti tam tikras svetainės paslaugas, o svetainė veiktų ne taip sklandžiai, kaip turėtų. Šie slapukai nerenka jokios informacijos rinkodaros tikslais ir neįsimena, kur jūs lankėtės internete.\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<p>\n\t\t\t\t\tAnalitiniai slapukai\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\tAnalitiniai slapukai renka informaciją apie svetainės naudojimą ir padeda tobulinti svetainės veikimą. Pavyzdžiui, analitiniai slapukai gali parodyti, kuriuose puslapiuose lankomasi dažniausiai, padėti registruoti svetainėje vykstančius nesklandumus ir parodyti, ar svetainėje rodoma reklama yra veiksminga. Analitiniai slapukai nerenka asmeninės vartotojų informacijos ir visa šių slapukų surinkta informacija yra apibendrinta ir anonimiška.\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<p>\n\t\t\t\t\tFunkciniai slapukai\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\tFunkciniai slapukai leidžia svetainei įsiminti jūsų pasirinkimus ir pateikti patobulintų bei labiau jūsų poreikiams pritaikytų funkcijų. Funkciniai slapukai taip pat įsimena jūsų padarytus pakeitimus, pvz., tam tikro tinklalapio individualizavimą, taip pat kitais atvejais, pvz., kai žiūrite vaizdo įrašą ar mūsų tinklalapyje paliekate komentarą. Funkciniai slapukai neseka jūsų veiksmų kitose svetainėse.\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<p>\n\t\t\t\t\tTiksliniai arba reklaminiai slapukai\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\tTiksliniai arba reklaminiai slapukai naudojami tam, kad jums būtų rodoma įdomesnė ir jūsų interesus labiau atitinkanti reklama, arba tam, kad tos pačios reklamos parodymų svetainėje skaičius būtų ribojamas. Šios rūšies slapukai taip pat naudojami reklamos kampanijos veiksmingumui matuoti. Šie slapukai gali būti naudojami siekiant įsiminti, į ką žiūrėjote, apsilankę svetainėje.\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t</ul>\n\t\t<h3>\n\t\t\tKokius slapukus jūs naudojate?\n\t\t</h3>\n\t\t<p>\n\t\t\tPuslapyje naudojami griežtai privalomi, analitiniai ir tiksliniai arba reklaminiai slapukai.\n\t\t</p>\n\t\t<h3>\n\t\t\tKaip galiu valdyti slapukus?\n\t\t</h3>\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tGriežtai privalomi slapukai ir analitiniai slapukai yra naudojimosi mūsų svetaine sąlyga. Jei atsisakysite šių slapukų rūšių, negalime numatyti, kaip mūsų svetainė veiks, kai joje apsilankysite.\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tGalite kontroliuoti funkcinių slapukų ir tikslinių arba reklaminių slapukų naudojimą, pakeitę naršyklės nustatymus.\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tAtkreipkite dėmesį, kad trindami slapukus arba išjungdami slapukų naudojimą ateityje, galite nepasiekti tam tikrų mūsų svetainės dalių ar funkcijų. Jei pakeisite slapukų nustatymus, tai paveiks ir kitas jūsų lankomas svetaines.\n\t\t\t</li>\n\t\t</ul>\n\t\t<h3>\n\t\t\tInformacija apie slapukus interneto puslapyje\n\t\t</h3>\n\t\t",
+          "table": "<table>\n\t\t\t<tbody><tr>\n\t\t\t\t<th>Paskirtis</th>\n\t\t\t\t<th>Slapuko pav.</th>\n\t\t\t\t<th>Galiojimo laikas</th>\n\t\t\t\t<th>Naud. duomenys</th>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tFiksuoja vartotojo atėjimo laiką\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tOctober_session\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tIki interneto Svetainės lango uždarymo pabaigos\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tUnikalus ID\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tGoogle Analytics: atskiria vartotojus\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t_ga\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t2 metus\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tTrumpas atsitiktinai sugeneruotas ID\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tGoogle Analytics: atskiria vartotojus\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t_gid\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t1 dieną\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tTrumpas atsitiktinai sugeneruotas ID\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tGoogle Analytics slapukas reikalingas sąsajai su Google Analytics paskyra\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t_utmt_UA_XXX\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t6 mėnesius\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tGoogle Analytics: saugoma informacija iš kur vartotojas atėjo, kokį paieškos variklį naudojo, kokią nuorodą paspaudė, koks raktažodis buvo panaudotas\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t__utma, _utmb, _utmc\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t2 metus\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t</tbody></table>\n\n\t"
+        },
+        "en": {
+          "meta_title": "Privacy policy",
+          "meta_description": "",
+          "meta_image": "",
+          "meta_url": "",
+          "json_ld_script": "",
+          "title": "Privacy policy",
+          "text": "\n\t\t<h3>\n\t\t\tKas yra slapukai?\n\t\t</h3>\n\t\t<p>\n\t\t\tSlapukai yra maži tekstiniai failai, saugomi Jūsų įrenginio (pvz., kompiuterio, mobiliojo telefono, planšetės) naršyklėje, kai Jūs naršote interneto svetainėse. Kitos technologijos, įskaitant duomenis, kuriuos išsaugome Jūsų interneto naršyklėje ar įrenginyje, su Jūsų įrenginiu susijusius identifikatorius bei kitą programinę įrangą, naudojamos panašiais tikslais. Slapukai plačiai naudojami, kad svetainės veiktų arba veiktų geriau ir veiksmingiau. Šioje politikoje visos minėtos technologijos vadinamos „slapukais“.\n\t\t</p>\n\t\t<h3>\n\t\t\tKodėl jūs naudojate slapukus?\n\t\t</h3>\n\t\t<p>\n\t\t\tMes naudojame slapukus:\n\t\t</p>\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tužtikrinti, kad svetainė veikia taip, kaip ji turi veikti;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tužtikrinti, kad neturėsite iš naujo prisijungti kaskart apsilankę svetainėje;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tišsaugoti jūsų nustatymus per apsilankymą ir tarp jų;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tpagerinti svetainės greitį/saugumą;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tsuteikti jums galimybę pasidalinti puslapiais socialiniuose tinkluose, pvz., „Facebook“, „Instagram“ ar „LinkedIn“;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tužtikrinti, kad prisijungę galėsite pritaikyti svetainę savo poreikiams, kad greičiau rastumėte tai, ko ieškote;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tnuolat tobulinti svetainę, kad jį būtų jums dar patrauklesnė;\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tkurti veiksmingesnę rinkodarą.\n\t\t\t</li>\n\t\t</ul>\n\t\t<h3>\n\t\t\tKokių tipų slapukus naudojate?\n\t\t</h3>\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\t<p>\n\t\t\t\t\tGriežtai privalomi slapukai\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\tŠie slapukai svetainėje yra būtini, kad vartotojas galėtų naršyti ir naudotis svetainės funkcijomis, pvz., įsiminti formose įvestą informaciją, kai vartotojas pereina nuo vieno puslapio prie kito naršymo seanso metu. Be griežtai privalomų slapukų taptų neįmanoma teikti tam tikras svetainės paslaugas, o svetainė veiktų ne taip sklandžiai, kaip turėtų. Šie slapukai nerenka jokios informacijos rinkodaros tikslais ir neįsimena, kur jūs lankėtės internete.\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<p>\n\t\t\t\t\tAnalitiniai slapukai\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\tAnalitiniai slapukai renka informaciją apie svetainės naudojimą ir padeda tobulinti svetainės veikimą. Pavyzdžiui, analitiniai slapukai gali parodyti, kuriuose puslapiuose lankomasi dažniausiai, padėti registruoti svetainėje vykstančius nesklandumus ir parodyti, ar svetainėje rodoma reklama yra veiksminga. Analitiniai slapukai nerenka asmeninės vartotojų informacijos ir visa šių slapukų surinkta informacija yra apibendrinta ir anonimiška.\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<p>\n\t\t\t\t\tFunkciniai slapukai\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\tFunkciniai slapukai leidžia svetainei įsiminti jūsų pasirinkimus ir pateikti patobulintų bei labiau jūsų poreikiams pritaikytų funkcijų. Funkciniai slapukai taip pat įsimena jūsų padarytus pakeitimus, pvz., tam tikro tinklalapio individualizavimą, taip pat kitais atvejais, pvz., kai žiūrite vaizdo įrašą ar mūsų tinklalapyje paliekate komentarą. Funkciniai slapukai neseka jūsų veiksmų kitose svetainėse.\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<p>\n\t\t\t\t\tTiksliniai arba reklaminiai slapukai\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\tTiksliniai arba reklaminiai slapukai naudojami tam, kad jums būtų rodoma įdomesnė ir jūsų interesus labiau atitinkanti reklama, arba tam, kad tos pačios reklamos parodymų svetainėje skaičius būtų ribojamas. Šios rūšies slapukai taip pat naudojami reklamos kampanijos veiksmingumui matuoti. Šie slapukai gali būti naudojami siekiant įsiminti, į ką žiūrėjote, apsilankę svetainėje.\n\t\t\t\t</p>\n\t\t\t</li>\n\t\t</ul>\n\t\t<h3>\n\t\t\tKokius slapukus jūs naudojate?\n\t\t</h3>\n\t\t<p>\n\t\t\tPuslapyje naudojami griežtai privalomi, analitiniai ir tiksliniai arba reklaminiai slapukai.\n\t\t</p>\n\t\t<h3>\n\t\t\tKaip galiu valdyti slapukus?\n\t\t</h3>\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\tGriežtai privalomi slapukai ir analitiniai slapukai yra naudojimosi mūsų svetaine sąlyga. Jei atsisakysite šių slapukų rūšių, negalime numatyti, kaip mūsų svetainė veiks, kai joje apsilankysite.\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tGalite kontroliuoti funkcinių slapukų ir tikslinių arba reklaminių slapukų naudojimą, pakeitę naršyklės nustatymus.\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\tAtkreipkite dėmesį, kad trindami slapukus arba išjungdami slapukų naudojimą ateityje, galite nepasiekti tam tikrų mūsų svetainės dalių ar funkcijų. Jei pakeisite slapukų nustatymus, tai paveiks ir kitas jūsų lankomas svetaines.\n\t\t\t</li>\n\t\t</ul>\n\t\t<h3>\n\t\t\tInformacija apie slapukus interneto puslapyje\n\t\t</h3>\n\t\t",
+          "table": "<table>\n\t\t\t<tbody><tr>\n\t\t\t\t<th>Paskirtis</th>\n\t\t\t\t<th>Slapuko pav.</th>\n\t\t\t\t<th>Galiojimo laikas</th>\n\t\t\t\t<th>Naud. duomenys</th>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tFiksuoja vartotojo atėjimo laiką\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tOctober_session\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tIki interneto Svetainės lango uždarymo pabaigos\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tUnikalus ID\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tGoogle Analytics: atskiria vartotojus\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t_ga\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t2 metus\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tTrumpas atsitiktinai sugeneruotas ID\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tGoogle Analytics: atskiria vartotojus\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t_gid\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t1 dieną\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\tTrumpas atsitiktinai sugeneruotas ID\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tGoogle Analytics slapukas reikalingas sąsajai su Google Analytics paskyra\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t_utmt_UA_XXX\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t6 mėnesius\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\tGoogle Analytics: saugoma informacija iš kur vartotojas atėjo, kokį paieškos variklį naudojo, kokią nuorodą paspaudė, koks raktažodis buvo panaudotas\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t__utma, _utmb, _utmc\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t2 metus\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t</tbody></table>\n\n\t"
+        }
+      }
+    },
+
     {
       "page": "career",
       "content": {
@@ -416,7 +763,9 @@
           "form_cv": "Pridėti CV aprašymo failą",
           "form_attach": "Pridėti",
           "form_security": "Įveskite saugos kodą",
-          "form_button": "Būti naiviam"
+          "form_button": "Būti naiviam",
+          "form_button_submitting": "Siunčiama..",
+          "form_button_success": "Esu naivus!"
         },
         "en": {
           "meta_title": "Career",
@@ -435,7 +784,9 @@
           "form_cv": "Attach a CV file",
           "form_attach": "Attach",
           "form_security": "Enter security code",
-          "form_button": "Try your luck"
+          "form_button": "Try your luck",
+          "form_button_submitting": "Sending..",
+          "form_button_success": "I'm lucky"
         }
       }
     },
