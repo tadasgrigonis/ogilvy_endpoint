@@ -1615,7 +1615,10 @@
                   "image": "/images/team_darius.png"
                 }
               ],
-              "cta_text": "Turite klausimų? Susisiekite – +370 602 14186 arba darius@ogilvy.lt"
+              "cta_text": "Turite klausimų? Susisiekite –",
+              "cta_or": "arba",
+              "cta_phone": "+370 602 14186",
+              "cta_email": "darius@ogilvy.lt"
             },
             "en": {
               "title": "Strategy & Research",
@@ -1668,7 +1671,10 @@
                   "image": "/images/team_darius.png"
                 }
               ],
-              "cta_text": "Turite klausimų? Susisiekite – +370 602 14186 arba darius@ogilvy.lt"
+              "cta_text": "Got questions? Contact us –",
+              "cta_or": "or",
+              "cta_phone": "+370 602 14186",
+              "cta_email": "darius@ogilvy.lt"
             }
           }
         }
