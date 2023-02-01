@@ -155,24 +155,40 @@
           "hero_author": "David Ogilvy",
           "hero_image": "/images/hero_ogilvy.png",
           "work_title": "Mūsų darbai",
-          "gallery": [
-            {
-              "img": "img1",
-              "src": ""
-            },
-            {
-              "img": "img2",
-              "src": ""
-            },
-            {
-              "img": "img3",
-              "src": ""
-            },
-            {
-              "img": "img4",
-              "src": ""
-            }
-          ],
+          "gallery": {
+            "vertical": [
+              "/images/gallery/v01.jpeg",
+              "/images/gallery/v02.jpeg",
+              "/images/gallery/v03.jpeg",
+              "/images/gallery/v04.jpeg",
+              "/images/gallery/v05.jpeg",
+              "/images/gallery/v06.jpeg",
+              "/images/gallery/v07.jpeg",
+              "/images/gallery/v08.jpeg",
+              "/images/gallery/v09.jpeg",
+              "/images/gallery/v10.jpeg"
+            ],
+            "horizontal": [
+              "/images/gallery/h01.jpeg",
+              "/images/gallery/h02.jpeg",
+              "/images/gallery/h03.jpeg",
+              "/images/gallery/h04.jpeg",
+              "/images/gallery/h05.jpeg",
+              "/images/gallery/h06.jpeg",
+              "/images/gallery/h07.jpeg",
+              "/images/gallery/h08.jpeg",
+              "/images/gallery/h09.jpeg",
+              "/images/gallery/h10.jpeg",
+              "/images/gallery/h11.jpeg",
+              "/images/gallery/h12.jpeg",
+              "/images/gallery/h13.jpeg",
+              "/images/gallery/h14.jpeg",
+              "/images/gallery/h15.jpeg"
+            ],
+            "central": [
+              "/images/gallery/h15.jpeg"
+            ]
+          },
           "services_title": "Paslaugos",
           "awards_title": "Mūsų apdovanojimai",
           "awards": [
@@ -434,29 +450,44 @@
               "image": "/images/cover3.jpg"
             }
           ],
-
           "hero_quote": "Our business is infested with idiots who try to impress by using pretentious jargon.",
           "hero_author": "David Ogilvy",
           "hero_image": "/images/hero_ogilvy.png",
           "work_title": "Our work",
-          "gallery": [
-            {
-              "img": "img1",
-              "src": ""
-            },
-            {
-              "img": "img2",
-              "src": ""
-            },
-            {
-              "img": "img3",
-              "src": ""
-            },
-            {
-              "img": "img4",
-              "src": ""
-            }
-          ],
+          "gallery": {
+            "vertical": [
+              "/images/gallery/v01.jpeg",
+              "/images/gallery/v02.jpeg",
+              "/images/gallery/v03.jpeg",
+              "/images/gallery/v04.jpeg",
+              "/images/gallery/v05.jpeg",
+              "/images/gallery/v06.jpeg",
+              "/images/gallery/v07.jpeg",
+              "/images/gallery/v08.jpeg",
+              "/images/gallery/v09.jpeg",
+              "/images/gallery/v10.jpeg"
+            ],
+            "horizontal": [
+              "/images/gallery/h01.jpeg",
+              "/images/gallery/h02.jpeg",
+              "/images/gallery/h03.jpeg",
+              "/images/gallery/h04.jpeg",
+              "/images/gallery/h05.jpeg",
+              "/images/gallery/h06.jpeg",
+              "/images/gallery/h07.jpeg",
+              "/images/gallery/h08.jpeg",
+              "/images/gallery/h09.jpeg",
+              "/images/gallery/h10.jpeg",
+              "/images/gallery/h11.jpeg",
+              "/images/gallery/h12.jpeg",
+              "/images/gallery/h13.jpeg",
+              "/images/gallery/h14.jpeg",
+              "/images/gallery/h15.jpeg"
+            ],
+            "central": [
+              "/images/gallery/h15.jpeg"
+            ]
+          },
           "services_title": "Services",
           "awards_title": "Mūsų apdovanojimai",
           "awards": [
@@ -742,7 +773,6 @@
         }
       }
     },
-
     {
       "page": "career",
       "content": {
