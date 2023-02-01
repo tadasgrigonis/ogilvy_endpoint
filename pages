@@ -588,6 +588,12 @@
       "buttons": {
         "lt": [
           {
+            "id": "b0",
+            "title": "Visi",
+            "category": "all",
+            "home_page_link": false
+          },
+          {
             "id": "b1",
             "title": "Kampanija",
             "category": "campaign",
@@ -619,6 +625,12 @@
           }
         ],
         "en": [
+          {
+            "id": "b0",
+            "title": "All",
+            "category": "all",
+            "home_page_link": false
+          },
           {
             "id": "b1",
             "title": "Campaign",
