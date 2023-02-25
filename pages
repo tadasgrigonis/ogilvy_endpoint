@@ -595,32 +595,20 @@
           },
           {
             "id": "b1",
-            "title": "Kampanija",
+            "title": "Reklama",
             "category": "campaign",
             "home_page_link": true
           },
           {
             "id": "b2",
-            "title": "TV",
-            "category": "tv",
+            "title": "Dizainas",
+            "category": "design",
             "home_page_link": true
           },
           {
             "id": "b3",
-            "title": "Spauda",
-            "category": "print",
-            "home_page_link": false
-          },
-          {
-            "id": "b4",
-            "title": "Skaitmena",
-            "category": "digital",
-            "home_page_link": true
-          },
-          {
-            "id": "b5",
-            "title": "Dizainas",
-            "category": "design",
+            "title": "Konsultavimas",
+            "category": "tv",
             "home_page_link": true
           }
         ],
@@ -633,32 +621,20 @@
           },
           {
             "id": "b1",
-            "title": "Campaign",
+            "title": "Advertising",
             "category": "campaign",
             "home_page_link": true
           },
           {
             "id": "b2",
-            "title": "TV",
-            "category": "tv",
+            "title": "Design",
+            "category": "design",
             "home_page_link": true
           },
           {
             "id": "b3",
-            "title": "Print",
-            "category": "print",
-            "home_page_link": false
-          },
-          {
-            "id": "b4",
-            "title": "Digital",
-            "category": "digital",
-            "home_page_link": true
-          },
-          {
-            "id": "b5",
-            "title": "Design",
-            "category": "design",
+            "title": "Consulting",
+            "category": "tv",
             "home_page_link": true
           }
         ]
