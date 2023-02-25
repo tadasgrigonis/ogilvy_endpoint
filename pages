@@ -151,7 +151,13 @@
               "image": "/images/cover3.jpg"
             }
           ],
-          "hero_quote": "Our business is infested with idiots who try to impress by using pretentious jargon.",
+          "hero_quotes": [
+            "Our business is infested with idiots who try to impress by using pretentious jargon.",
+            "Play to win, but enjoy the fun",
+            "The best ideas come as jokes. Make your thinking as funny as possible.",
+            "The consumer isn't a moron. She is your wife.",
+            "Where people aren’t having any fun, they seldom produce good work"
+          ],
           "hero_author": "David Ogilvy",
           "hero_image": "/images/hero_ogilvy.png",
           "work_title": "Mūsų darbai",
@@ -450,7 +456,13 @@
               "image": "/images/cover3.jpg"
             }
           ],
-          "hero_quote": "Our business is infested with idiots who try to impress by using pretentious jargon.",
+          "hero_quotes": [
+            "Our business is infested with idiots who try to impress by using pretentious jargon.",
+            "Play to win, but enjoy the fun",
+            "The best ideas come as jokes. Make your thinking as funny as possible.",
+            "The consumer isn't a moron. She is your wife.",
+            "Where people aren’t having any fun, they seldom produce good work"
+          ],
           "hero_author": "David Ogilvy",
           "hero_image": "/images/hero_ogilvy.png",
           "work_title": "Our work",
