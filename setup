@@ -1,0 +1,60 @@
+{
+  "setup": {
+    "script_src": "",
+    "script": "",
+    "lt": {
+      "copyright_text": "UAB ADELL REKLAMA. Visos teisės saugomos",
+      "footer_links": [
+        {
+          "link_name": "Privatumo politika",
+          "link_url": "/privatumo-politika"
+        },
+        {
+          "link_name": "Slapukai",
+          "link_url": "/slapukai"
+        }
+      ],
+      "footer_social_links": [
+        {
+          "link_name": "Facebook",
+          "link_url": "https://www.facebook.com/OgilvyVilnius/"
+        },
+        {
+          "link_name": "LinkedIn",
+          "link_url": "https://www.linkedin.com/company/ogilvy-vilnius/"
+        },
+        {
+          "link_name": "Vimeo",
+          "link_url": "https://vimeo.com/ogilvyvilnius"
+        }
+      ]
+    },
+    "en": {
+      "copyright_text": "JSC ADELL REKLAMA. All rights reserved.",
+      "footer_links": [
+        {
+          "link_name": "Privacy policy",
+          "link_url": "/privatumo-politika"
+        },
+        {
+          "link_name": "Cookies",
+          "link_url": "/slapukai"
+        }
+      ],
+      "footer_social_links": [
+        {
+          "link_name": "Facebook",
+          "link_url": "https://www.facebook.com/OgilvyVilnius/"
+        },
+        {
+          "link_name": "LinkedIn",
+          "link_url": "https://www.linkedin.com/company/ogilvy-vilnius/"
+        },
+        {
+          "link_name": "Vimeo",
+          "link_url": "https://vimeo.com/ogilvyvilnius"
+        }
+      ]
+    }
+  }
+}
