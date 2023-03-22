@@ -3,7 +3,8 @@
     "script_src": "",
     "script": "",
     "lt": {
-      "go_back": "Grįžti atgal",
+      "back_button": "Grįžti atgal",
+      "more_button": "Pamatyti daugiau",
       "copyright_text": "UAB ADELL REKLAMA. Visos teisės saugomos.",
       "footer_links": [
         {
@@ -31,7 +32,8 @@
       ]
     },
     "en": {
-      "go_back": "Go back",
+      "back_button": "Go back",
+      "more_button": "Learn more",
       "copyright_text": "JSC ADELL REKLAMA. All rights reserved.",
       "footer_links": [
         {
