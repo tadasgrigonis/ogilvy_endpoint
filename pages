@@ -292,7 +292,7 @@
             }
           ],
           "press_title": "Spauda apie mus",
-          "press_link": "Pamatyti viską",
+          "press_link": null,
           "press_link_path": "/spauda",
           "clients_title": "Klientai",
           "clients": [
